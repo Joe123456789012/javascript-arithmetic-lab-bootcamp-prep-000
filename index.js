@@ -4,7 +4,7 @@ function add(a, b){
   return number;
 }
 
-function subtract(b,a){
+function subtract(b, a){
   number = b - a;
   return number;
 }
@@ -19,4 +19,6 @@ function divide(a, b){
   return number;
 }
 
-fun
+function inc(n){
+  number
+}
