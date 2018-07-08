@@ -1,1 +1,2 @@
-var Number
+var Number;
+funtction 
