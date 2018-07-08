@@ -28,3 +28,8 @@ function dec(n){
   number = --n;
   return number;
 }
+
+function parseInt(n){
+  number = parseIntn;
+  return number;
+}
