@@ -1,4 +1,4 @@
-var Number=;
+var Number
 funtction add(a,b){
  
   return number;
