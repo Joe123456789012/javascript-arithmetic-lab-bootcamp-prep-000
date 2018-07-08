@@ -1,2 +1,4 @@
 var Number;
-funtction 
+funtction add(a,b){
+  
+}
