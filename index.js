@@ -30,6 +30,6 @@ function dec(n){
 }
 
 function parseInt(n){
-  number = parseIntn;
+  number = parseInt('n', 10);
   return number;
 }
